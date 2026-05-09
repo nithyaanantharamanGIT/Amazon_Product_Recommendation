@@ -1,5 +1,4 @@
 # Amazon Product Recommendation & Review Intelligence System
-**Final Project Report - DATA 228**
 
 ---
 
